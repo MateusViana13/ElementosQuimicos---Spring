@@ -16,8 +16,7 @@ O objetivo central é proporcionar uma API eficiente para o gerenciamento de inf
 - **Padrões de Orientação a Objetos:** Utilização de conceitos de Programação Orientada a Objetos para estruturar o código de forma eficiente.
 - **Documentação Clara:** Comentários explicativos e documentação relevante no código para facilitar a compreensão e manutenção do projeto.
 
-O projeto concentra-se em oferecer um ambiente intuitivo e funcional para gerenciar elementos químicos, aplicando os princípios de Orientação a Objetos e garantindo uma experiência eficiente para seus usuários.
----
+ O projeto concentra-se em oferecer um ambiente intuitivo e funcional para gerenciar elementos químicos, aplicando os princípios de Orientação a Objetos e garantindo uma experiência eficiente para seus usuários.
 
 ## Tecnologia Empregada
 
