@@ -1,5 +1,4 @@
-# Projeto de Exemplo: Gerenciamento de Elementos Químicos
-# Sistema de Gerenciamento de Elementos Químicos
+# Sistema de Gerenciamento de Elementos Químicos - API
 
 ## Descrição do Projeto
 
