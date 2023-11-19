@@ -18,8 +18,8 @@ O objetivo central é proporcionar uma API eficiente para o gerenciamento de inf
  O projeto concentra-se em oferecer um ambiente intuitivo e funcional para gerenciar elementos químicos, aplicando os princípios de Orientação a Objetos e garantindo uma experiência eficiente para seus usuários.
 
 ## Nome dos Desenvolvedores e RA
-`Mateus Viana Alves - 202112948
-Guilherme Terreri Salomão - 202109088`
+`Mateus Viana Alves - 202112948`<br/>
+`Guilherme Terreri Salomão - 202109088`
 
 ## Tecnologia Empregada
 
