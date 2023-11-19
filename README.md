@@ -1,4 +1,23 @@
 # Projeto de Exemplo: Gerenciamento de Elementos Químicos
+# Sistema de Gerenciamento de Elementos Químicos
+
+## Descrição do Projeto
+
+O projeto consiste em um sistema de gerenciamento de elementos químicos desenvolvido como parte do componente curricular de `Programação Orientada a Objetos(POO)`. A aplicação oferece funcionalidades de CRUD (Create, Read, Update, Delete) para manipulação de informações sobre elementos químicos.
+
+### Propósito da Aplicação
+
+O objetivo central é proporcionar uma API eficiente para o gerenciamento de informações sobre elementos químicos. A aplicação possibilita a criação, leitura, atualização e remoção desses elementos, visando facilitar o controle e a manipulação desses dados de forma organizada e sistemática.
+
+### Principais Recursos Implementados
+
+- **Operações CRUD:** Funcionalidades completas de criação, leitura, atualização e exclusão de elementos químicos.
+- **Armazenamento de Dados:** Utilização de um banco de dados SQL Server para persistência das informações.
+- **Padrões de Orientação a Objetos:** Utilização de conceitos de Programação Orientada a Objetos para estruturar o código de forma eficiente.
+- **Documentação Clara:** Comentários explicativos e documentação relevante no código para facilitar a compreensão e manutenção do projeto.
+
+O projeto concentra-se em oferecer um ambiente intuitivo e funcional para gerenciar elementos químicos, aplicando os princípios de Orientação a Objetos e garantindo uma experiência eficiente para seus usuários.
+---
 
 ## Tecnologia Empregada
 
