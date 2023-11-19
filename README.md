@@ -48,6 +48,51 @@ O projeto implementa as operações CRUD (Create, Read, Update, Delete) para a e
 
 A aplicação oferece endpoints RESTful para realizar essas operações, garantindo a funcionalidade completa do sistema CRUD.
 
+# Documentação das Rotas
+
+## Listar Todos Elementos Químicos
+
+- **Request:** `GET /api/elementosquimicos`
+- **Resposta de Sucesso:** Retorna uma lista de todos os elementos químicos existentes.
+
+## Buscar Elemento Químico por ID
+
+- **Request:** `GET /api/elementosquimicos/{id}`
+- **Resposta de Sucesso:** Retorna o elemento químico correspondente ao ID especificado.
+
+## Adicionar Novo Elemento Químico
+
+- **Request:** `POST /api/elementosquimicos`
+- **Corpo da Requisição:**
+  ```json
+  {
+    "simbolo": "H",
+    "nome": "Hidrogênio",
+    "numeroAtomico": 1,
+    "massaAtomica": 1.008,
+    "grupo": "1A",
+    "periodo": "1"
+  }
+
+## Atualizar Elemento Químico
+
+- **Request:** `PUT /api/elementosquimicos/{id}`
+- **Corpo da Requisição:**
+  ```json
+  {
+    "simbolo": "He",
+    "nome": "Hélio",
+    "numeroAtomico": 2,
+    "massaAtomica": 4.0026,
+    "grupo": "18",
+    "periodo": "1"
+  }
+
+## Remover Elemento Químico
+
+- **Request:** `DELETE /api/elementosquimicos/{id}`
+- **Resposta de Sucesso:** Retorna uma resposta sem conteúdo (204 No Content) indicando que o elemento químico foi removido com sucesso.
+
 ## Inovação e Criatividade
 
 Além das operações CRUD padrão, o projeto se destaca por:
